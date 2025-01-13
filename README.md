@@ -1,6 +1,6 @@
 # Voice-to-Text with Groq
 
-This project is a web application that allows users to transcribe audio files or live recordings into text using Groq's API.
+This project is a web application that allows users to transcribe audio files or live recordings into text using [Groq's Voice API](https://console.groq.com/docs/speech-text).
 
 ## Features
 
